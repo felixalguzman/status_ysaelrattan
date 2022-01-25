@@ -4,18 +4,19 @@
     "url": "https://ysaelrattan.com",
     "icon": "https://favicons.githubusercontent.com/ysaelrattan.com",
     "slug": "ysael-rattan",
-    "status": "up",
-    "uptime": "81.52%",
-    "uptimeDay": "81.52%",
-    "uptimeWeek": "81.52%",
-    "uptimeMonth": "81.52%",
-    "uptimeYear": "81.52%",
+    "status": "down",
+    "uptime": "90.93%",
+    "uptimeDay": "90.93%",
+    "uptimeWeek": "90.93%",
+    "uptimeMonth": "90.93%",
+    "uptimeYear": "90.93%",
     "time": 919,
     "timeDay": 919,
     "timeWeek": 919,
     "timeMonth": 919,
     "timeYear": 919,
     "dailyMinutesDown": {
+      "2022-01-25": 0,
       "2022-01-24": 119
     }
   }
